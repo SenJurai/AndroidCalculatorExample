@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.example.rezasoltani.activity1.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight=".75"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/etxNumber1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/etxNumber2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView"
+            android:layout_centerHorizontal="true"
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="textPersonName" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight=".75"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnChangeText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/etxNumber2"
+            android:layout_weight="2"
+            android:text="abcd" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnDivide"
+            android:layout_width="99dp"
+            android:layout_height="wrap_content"
+            android:text="Divide Numbers" />
+
+        <Button
+            android:id="@+id/btnMultiply"
+            android:layout_width="92dp"
+            android:layout_height="58dp"
+            android:onClick="multi"
+            android:text="Multiply Numbers" />
+
+        <Button
+            android:id="@+id/btnAdd"
+            android:layout_width="103dp"
+            android:layout_height="wrap_content"
+            android:text="Add Numbers" />
+
+        <Button
+            android:id="@+id/btnSub"
+            android:layout_width="93dp"
+            android:layout_height="wrap_content"
+            android:text="Sub Numbers" />
+
+    </LinearLayout>
+
+</LinearLayout>

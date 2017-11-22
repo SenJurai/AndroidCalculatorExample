@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mmares/.android/build-cache/e852540c62bbe48ef8271b0212ab785a04380769/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/mmares/Desktop/Activity1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97ba3c3b81ad89b1d7ca50534aadbd0c0abc5aa5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mmares/.android/build-cache/dcb014d903129a26d29362d1e777acb4cf12ce2a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/mmares/Desktop/Activity1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_277497be5ad23cd73a6d9d92326e86ee96d9f16c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mmares/.android/build-cache/d4e6699bcaa341a6172daa4702842f2a083f01dd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/mmares/Desktop/Activity1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eeebd3727f77b07849e0ecc692db83d653e0fc9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mmares/.android/build-cache/3280215bdf8f5f9e71ae220bb276df70dbd54897/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/mmares/Desktop/Activity1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e5b366677fd5e2efd8f4e5c6a86ac77f13c487ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mmares/.android/build-cache/34e9470f4306419aca88bce1e8ed09546090770f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mmares/Desktop/Activity1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a1d4fc7398eb776e21dee7106483dceaea53ca8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mmares/.android/build-cache/da9763da5447ea09f7e80742f4637ba7890af90f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/mmares/Desktop/Activity1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0308cdd0a592e4976f076b59eb07e2a86206958b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mmares/Desktop/Activity1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/mmares/Desktop/Activity1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1bbf03450b2786bc951c2ef2555edfacfdf98d6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shared/AndroidStudio/SDK/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/mmares/Desktop/Activity1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_41855c94a65c4ac9643d1b25076e60e7bc8455ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mmares/.android/build-cache/fc99bcea12a4fe0fdb02590de3048e56c4de1fa1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/mmares/Desktop/Activity1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a8f4bf54581101f6dc8b46a5d20da74c0f4a287/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mmares/Desktop/Activity1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9beff15bd434d62f199e68181836d4612d9956e">
+        <dex dex="/Users/mmares/Desktop/Activity1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4908003cdfd54dd0934aa91ede7378ea352ff7af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mmares/.android/build-cache/fa59ada1c3186de3f573e86e6e5cd71858a56904/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/mmares/Desktop/Activity1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7dd0ad2d3ba6734b86ef3a680761dc41c31cfbd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mmares/.android/build-cache/032e3703ba31b269b5eed93d92fafc85e9264a9a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/mmares/Desktop/Activity1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c093c118a8e99b0b2e1012de6da5038af8cf03a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shared/AndroidStudio/SDK/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/mmares/Desktop/Activity1/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_21e111af1af1996d66124175089e547c034ec6c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mmares/.android/build-cache/ab91346a705d89b2bd139d967b3f62ad1a1e7135/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/mmares/Desktop/Activity1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b6a1d81782f21438b828ec0e16e8080f76d1e274/classes.dex" />
+    </item>
+
+</items>
